@@ -4,7 +4,7 @@
 // Deniz Görür
 // 2420161046
 // BTK Akademi Sertifika Bağlantısı
-https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=-0Koh8DgqZ2
+https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=0Koh8DgqZ2
 
 void dizi_yazdir(int dizi[], int BOYUT) {
 	int i;
